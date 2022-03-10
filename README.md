@@ -1,4 +1,4 @@
-# crypto-clustering
+# Crypto clustering
 
 Analyzes some crypto currency data to group them together.
 ---
